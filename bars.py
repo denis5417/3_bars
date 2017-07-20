@@ -36,4 +36,4 @@ if __name__ == '__main__':
         print("Самый маленький бар - {}".format(get_smallest_bar(bar_data)))
         print("Самый близкий бар – {}".format(get_closest_bar(bar_data, longitude, latitude)))
     else:
-        print("Введите путь до файла, и координаты")
+        print("Введите путь до файла и координаты")
