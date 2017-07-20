@@ -20,13 +20,10 @@ pip install -r requirements.txt
 Запуск на Linux:
 
 ```#!bash
-
 $ python3 bars.py <path_to_file_with_JSON_data> <longitude> <latitude>
 Самый большой бар – Спорт бар «Красная машина»
 Самый маленький бар - БАР. СОКИ
 Самый близкий бар – Таверна
-
-
 ```
 
 Запуск на Windows происходит аналогично.
